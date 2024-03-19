@@ -33,7 +33,4 @@ public class SelenideDragAndDropTests {
         $("#column-a").shouldHave(text("B"));
         $("#column-b").shouldHave(text("A"));
     }
-
-
-
 }
